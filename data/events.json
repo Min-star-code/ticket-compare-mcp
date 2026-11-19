@@ -1,0 +1,110 @@
+[
+ {
+  "event_id": "E001",
+  "name": "The Northern Lanterns",
+  "category": "concert",
+  "venue": "Grand River Hall",
+  "city": "Kitchener",
+  "start_local": "2026-11-22T20:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E002",
+  "name": "Mila Okafor",
+  "category": "concert",
+  "venue": "Laurel Creek Theatre",
+  "city": "Waterloo",
+  "start_local": "2026-12-05T20:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E003",
+  "name": "Static Bloom",
+  "category": "concert",
+  "venue": "The Foundry Room",
+  "city": "Kitchener",
+  "start_local": "2026-11-29T20:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E004",
+  "name": "Waterloo Wolves vs. Hamilton Hawks",
+  "category": "sports",
+  "venue": "Harbourfront Arena",
+  "city": "Toronto",
+  "start_local": "2026-12-09T19:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E005",
+  "name": "Toronto Comets vs. Ottawa Foxes",
+  "category": "sports",
+  "venue": "Queen West Music Hall",
+  "city": "Toronto",
+  "start_local": "2026-12-03T19:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E006",
+  "name": "A Winter's Tale (new staging)",
+  "category": "theatre",
+  "venue": "Bayfront Centre",
+  "city": "Hamilton",
+  "start_local": "2026-12-03T19:30",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E007",
+  "name": "The Lighthouse Keeper",
+  "category": "theatre",
+  "venue": "Speed River Stage",
+  "city": "Guelph",
+  "start_local": "2026-11-19T19:30",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E008",
+  "name": "Priya Ramanathan: Mostly True",
+  "category": "comedy",
+  "venue": "Grand River Hall",
+  "city": "Kitchener",
+  "start_local": "2026-11-22T21:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E009",
+  "name": "Open Mic Showcase",
+  "category": "comedy",
+  "venue": "Laurel Creek Theatre",
+  "city": "Waterloo",
+  "start_local": "2026-12-05T21:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E010",
+  "name": "Candlelight: Film Scores",
+  "category": "concert",
+  "venue": "The Foundry Room",
+  "city": "Kitchener",
+  "start_local": "2026-12-15T20:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E011",
+  "name": "The Velvet Arcade",
+  "category": "concert",
+  "venue": "Harbourfront Arena",
+  "city": "Toronto",
+  "start_local": "2026-11-26T20:00",
+  "timezone": "America/Toronto"
+ },
+ {
+  "event_id": "E012",
+  "name": "Holiday Jazz Night",
+  "category": "concert",
+  "venue": "Queen West Music Hall",
+  "city": "Toronto",
+  "start_local": "2026-12-18T20:00",
+  "timezone": "America/Toronto"
+ }
+]

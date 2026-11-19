@@ -1,0 +1,1002 @@
+[
+ {
+  "listing_id": "E001-L01",
+  "event_id": "E001",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "B",
+  "base_price": 60.0,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L02",
+  "event_id": "E001",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "J",
+  "base_price": 60.0,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L03",
+  "event_id": "E001",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "H",
+  "base_price": 60.0,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L04",
+  "event_id": "E001",
+  "seller_id": "tixswap",
+  "section": "Floor",
+  "row": "B",
+  "base_price": 123.68,
+  "quantity_available": 8,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E001-L05",
+  "event_id": "E001",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "D",
+  "base_price": 106.31,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L06",
+  "event_id": "E001",
+  "seller_id": "tixswap",
+  "section": "Lower 200s",
+  "row": "J",
+  "base_price": 149.19,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L07",
+  "event_id": "E001",
+  "seller_id": "seathub",
+  "section": "Balcony",
+  "row": "E",
+  "base_price": 84.9,
+  "quantity_available": 8,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E001-L08",
+  "event_id": "E001",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "F",
+  "base_price": 70.47,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L09",
+  "event_id": "E001",
+  "seller_id": "lastcall",
+  "section": "Floor",
+  "row": "K",
+  "base_price": 162.4,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E001-L10",
+  "event_id": "E001",
+  "seller_id": "lastcall",
+  "section": "Upper 300s",
+  "row": "K",
+  "base_price": 93.95,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L01",
+  "event_id": "E002",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "H",
+  "base_price": 57.0,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L02",
+  "event_id": "E002",
+  "seller_id": "box_office",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 98.8,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L03",
+  "event_id": "E002",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "D",
+  "base_price": 64.57,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L04",
+  "event_id": "E002",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "J",
+  "base_price": 100.65,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L05",
+  "event_id": "E002",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "J",
+  "base_price": 119.18,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L06",
+  "event_id": "E002",
+  "seller_id": "seathub",
+  "section": "Upper 300s",
+  "row": "E",
+  "base_price": 84.28,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E002-L07",
+  "event_id": "E002",
+  "seller_id": "seathub",
+  "section": "Lower 100s",
+  "row": "K",
+  "base_price": 152.0,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L08",
+  "event_id": "E002",
+  "seller_id": "lastcall",
+  "section": "Lower 200s",
+  "row": "E",
+  "base_price": 151.95,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E002-L09",
+  "event_id": "E002",
+  "seller_id": "lastcall",
+  "section": "Upper 300s",
+  "row": "J",
+  "base_price": 109.71,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E003-L01",
+  "event_id": "E003",
+  "seller_id": "box_office",
+  "section": "Upper 300s",
+  "row": "J",
+  "base_price": 75.65,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E003-L02",
+  "event_id": "E003",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "H",
+  "base_price": 131.22,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E003-L03",
+  "event_id": "E003",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 93.15,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E003-L04",
+  "event_id": "E003",
+  "seller_id": "seathub",
+  "section": "Floor",
+  "row": "H",
+  "base_price": 134.82,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E003-L05",
+  "event_id": "E003",
+  "seller_id": "lastcall",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 113.02,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L01",
+  "event_id": "E004",
+  "seller_id": "box_office",
+  "section": "Floor",
+  "row": "F",
+  "base_price": 107.2,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L02",
+  "event_id": "E004",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "K",
+  "base_price": 54.47,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L03",
+  "event_id": "E004",
+  "seller_id": "seathub",
+  "section": "Balcony",
+  "row": "G",
+  "base_price": 58.05,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L04",
+  "event_id": "E004",
+  "seller_id": "seathub",
+  "section": "Balcony",
+  "row": "G",
+  "base_price": 58.86,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L05",
+  "event_id": "E004",
+  "seller_id": "seathub",
+  "section": "Balcony",
+  "row": "G",
+  "base_price": 85.29,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L06",
+  "event_id": "E004",
+  "seller_id": "lastcall",
+  "section": "Floor",
+  "row": "F",
+  "base_price": 96.9,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E004-L07",
+  "event_id": "E004",
+  "seller_id": "lastcall",
+  "section": "Floor",
+  "row": "H",
+  "base_price": 94.0,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L01",
+  "event_id": "E005",
+  "seller_id": "box_office",
+  "section": "Upper 300s",
+  "row": "H",
+  "base_price": 55.25,
+  "quantity_available": 2,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E005-L02",
+  "event_id": "E005",
+  "seller_id": "tixswap",
+  "section": "Lower 100s",
+  "row": "F",
+  "base_price": 110.3,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L03",
+  "event_id": "E005",
+  "seller_id": "tixswap",
+  "section": "Floor",
+  "row": "A",
+  "base_price": 148.17,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L04",
+  "event_id": "E005",
+  "seller_id": "tixswap",
+  "section": "Lower 100s",
+  "row": "J",
+  "base_price": 75.84,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L05",
+  "event_id": "E005",
+  "seller_id": "seathub",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 114.75,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L06",
+  "event_id": "E005",
+  "seller_id": "seathub",
+  "section": "Lower 100s",
+  "row": "J",
+  "base_price": 141.51,
+  "quantity_available": 2,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E005-L07",
+  "event_id": "E005",
+  "seller_id": "seathub",
+  "section": "Lower 100s",
+  "row": "G",
+  "base_price": 106.43,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L08",
+  "event_id": "E005",
+  "seller_id": "lastcall",
+  "section": "Lower 200s",
+  "row": "C",
+  "base_price": 74.83,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E005-L09",
+  "event_id": "E005",
+  "seller_id": "lastcall",
+  "section": "Upper 300s",
+  "row": "C",
+  "base_price": 63.65,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L01",
+  "event_id": "E006",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "E",
+  "base_price": 46.5,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L02",
+  "event_id": "E006",
+  "seller_id": "box_office",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 80.6,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L03",
+  "event_id": "E006",
+  "seller_id": "box_office",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 68.2,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L04",
+  "event_id": "E006",
+  "seller_id": "tixswap",
+  "section": "Lower 100s",
+  "row": "K",
+  "base_price": 98.27,
+  "quantity_available": 3,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E006-L05",
+  "event_id": "E006",
+  "seller_id": "tixswap",
+  "section": "Lower 200s",
+  "row": "K",
+  "base_price": 97.77,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L06",
+  "event_id": "E006",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "C",
+  "base_price": 105.97,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L07",
+  "event_id": "E006",
+  "seller_id": "seathub",
+  "section": "Floor",
+  "row": "C",
+  "base_price": 183.78,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L08",
+  "event_id": "E006",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "C",
+  "base_price": 109.7,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E006-L09",
+  "event_id": "E006",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "E",
+  "base_price": 80.41,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E006-L10",
+  "event_id": "E006",
+  "seller_id": "lastcall",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 62.47,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L01",
+  "event_id": "E007",
+  "seller_id": "box_office",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 75.4,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E007-L02",
+  "event_id": "E007",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "F",
+  "base_price": 63.31,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L03",
+  "event_id": "E007",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "K",
+  "base_price": 65.56,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L04",
+  "event_id": "E007",
+  "seller_id": "tixswap",
+  "section": "Lower 200s",
+  "row": "K",
+  "base_price": 94.95,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L05",
+  "event_id": "E007",
+  "seller_id": "seathub",
+  "section": "Floor",
+  "row": "J",
+  "base_price": 145.77,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L06",
+  "event_id": "E007",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 58.09,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L07",
+  "event_id": "E007",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "B",
+  "base_price": 73.63,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E007-L08",
+  "event_id": "E007",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "J",
+  "base_price": 78.22,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E007-L09",
+  "event_id": "E007",
+  "seller_id": "lastcall",
+  "section": "Floor",
+  "row": "B",
+  "base_price": 149.2,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L01",
+  "event_id": "E008",
+  "seller_id": "box_office",
+  "section": "Balcony",
+  "row": "F",
+  "base_price": 20.25,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E008-L02",
+  "event_id": "E008",
+  "seller_id": "tixswap",
+  "section": "Lower 100s",
+  "row": "G",
+  "base_price": 42.95,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L03",
+  "event_id": "E008",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "C",
+  "base_price": 35.47,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L04",
+  "event_id": "E008",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "G",
+  "base_price": 31.75,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L05",
+  "event_id": "E008",
+  "seller_id": "seathub",
+  "section": "Floor",
+  "row": "J",
+  "base_price": 37.47,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L06",
+  "event_id": "E008",
+  "seller_id": "lastcall",
+  "section": "Lower 100s",
+  "row": "K",
+  "base_price": 64.63,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E008-L07",
+  "event_id": "E008",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "J",
+  "base_price": 18.02,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E009-L01",
+  "event_id": "E009",
+  "seller_id": "box_office",
+  "section": "Floor",
+  "row": "D",
+  "base_price": 72.0,
+  "quantity_available": 8,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E009-L02",
+  "event_id": "E009",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "G",
+  "base_price": 59.24,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E009-L03",
+  "event_id": "E009",
+  "seller_id": "seathub",
+  "section": "Balcony",
+  "row": "F",
+  "base_price": 58.07,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E009-L04",
+  "event_id": "E009",
+  "seller_id": "lastcall",
+  "section": "Upper 300s",
+  "row": "H",
+  "base_price": 54.55,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E009-L05",
+  "event_id": "E009",
+  "seller_id": "lastcall",
+  "section": "Upper 300s",
+  "row": "A",
+  "base_price": 38.69,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L01",
+  "event_id": "E010",
+  "seller_id": "box_office",
+  "section": "Upper 300s",
+  "row": "A",
+  "base_price": 79.05,
+  "quantity_available": 2,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E010-L02",
+  "event_id": "E010",
+  "seller_id": "box_office",
+  "section": "Lower 200s",
+  "row": "J",
+  "base_price": 102.3,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E010-L03",
+  "event_id": "E010",
+  "seller_id": "box_office",
+  "section": "Floor",
+  "row": "A",
+  "base_price": 148.8,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L04",
+  "event_id": "E010",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "A",
+  "base_price": 81.75,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L05",
+  "event_id": "E010",
+  "seller_id": "tixswap",
+  "section": "Balcony",
+  "row": "C",
+  "base_price": 118.76,
+  "quantity_available": 2,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E010-L06",
+  "event_id": "E010",
+  "seller_id": "tixswap",
+  "section": "Upper 300s",
+  "row": "E",
+  "base_price": 94.88,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E010-L07",
+  "event_id": "E010",
+  "seller_id": "seathub",
+  "section": "Lower 100s",
+  "row": "E",
+  "base_price": 123.36,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L08",
+  "event_id": "E010",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 101.35,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L09",
+  "event_id": "E010",
+  "seller_id": "seathub",
+  "section": "Floor",
+  "row": "H",
+  "base_price": 258.86,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L10",
+  "event_id": "E010",
+  "seller_id": "lastcall",
+  "section": "Lower 100s",
+  "row": "A",
+  "base_price": 194.42,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L11",
+  "event_id": "E010",
+  "seller_id": "lastcall",
+  "section": "Lower 100s",
+  "row": "B",
+  "base_price": 123.58,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E010-L12",
+  "event_id": "E010",
+  "seller_id": "lastcall",
+  "section": "Floor",
+  "row": "D",
+  "base_price": 183.98,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E011-L01",
+  "event_id": "E011",
+  "seller_id": "box_office",
+  "section": "Lower 200s",
+  "row": "H",
+  "base_price": 74.8,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E011-L02",
+  "event_id": "E011",
+  "seller_id": "tixswap",
+  "section": "Floor",
+  "row": "K",
+  "base_price": 136.03,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E011-L03",
+  "event_id": "E011",
+  "seller_id": "tixswap",
+  "section": "Lower 200s",
+  "row": "H",
+  "base_price": 100.84,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E011-L04",
+  "event_id": "E011",
+  "seller_id": "tixswap",
+  "section": "Lower 100s",
+  "row": "H",
+  "base_price": 152.05,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E011-L05",
+  "event_id": "E011",
+  "seller_id": "seathub",
+  "section": "Upper 300s",
+  "row": "E",
+  "base_price": 96.34,
+  "quantity_available": 3,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E011-L06",
+  "event_id": "E011",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "F",
+  "base_price": 73.42,
+  "quantity_available": 8,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E011-L07",
+  "event_id": "E011",
+  "seller_id": "lastcall",
+  "section": "Lower 100s",
+  "row": "H",
+  "base_price": 93.38,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L01",
+  "event_id": "E012",
+  "seller_id": "box_office",
+  "section": "Upper 300s",
+  "row": "K",
+  "base_price": 69.7,
+  "quantity_available": 6,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L02",
+  "event_id": "E012",
+  "seller_id": "box_office",
+  "section": "Upper 300s",
+  "row": "K",
+  "base_price": 69.7,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L03",
+  "event_id": "E012",
+  "seller_id": "tixswap",
+  "section": "Floor",
+  "row": "H",
+  "base_price": 155.61,
+  "quantity_available": 4,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E012-L04",
+  "event_id": "E012",
+  "seller_id": "tixswap",
+  "section": "Lower 200s",
+  "row": "C",
+  "base_price": 98.86,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L05",
+  "event_id": "E012",
+  "seller_id": "seathub",
+  "section": "Upper 300s",
+  "row": "G",
+  "base_price": 105.59,
+  "quantity_available": 1,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L06",
+  "event_id": "E012",
+  "seller_id": "seathub",
+  "section": "Lower 200s",
+  "row": "F",
+  "base_price": 140.52,
+  "quantity_available": 2,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L07",
+  "event_id": "E012",
+  "seller_id": "seathub",
+  "section": "Upper 300s",
+  "row": "J",
+  "base_price": 125.74,
+  "quantity_available": 3,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L08",
+  "event_id": "E012",
+  "seller_id": "lastcall",
+  "section": "Lower 200s",
+  "row": "G",
+  "base_price": 82.36,
+  "quantity_available": 2,
+  "seats_together": false
+ },
+ {
+  "listing_id": "E012-L09",
+  "event_id": "E012",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "C",
+  "base_price": 97.59,
+  "quantity_available": 4,
+  "seats_together": true
+ },
+ {
+  "listing_id": "E012-L10",
+  "event_id": "E012",
+  "seller_id": "lastcall",
+  "section": "Balcony",
+  "row": "H",
+  "base_price": 79.05,
+  "quantity_available": 8,
+  "seats_together": true
+ }
+]

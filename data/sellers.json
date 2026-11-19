@@ -1,0 +1,34 @@
+{
+ "box_office": {
+  "name": "Venue Box Office",
+  "type": "primary",
+  "fee_pct": 6.0,
+  "fee_fixed": 3.5,
+  "fees_shown_upfront": true,
+  "guarantee": "Issued by the venue; refund only if the event is cancelled."
+ },
+ "tixswap": {
+  "name": "TixSwap",
+  "type": "resale",
+  "fee_pct": 24.0,
+  "fee_fixed": 0.0,
+  "fees_shown_upfront": false,
+  "guarantee": "Full refund if the ticket is invalid or the event is cancelled."
+ },
+ "seathub": {
+  "name": "SeatHub",
+  "type": "resale",
+  "fee_pct": 15.0,
+  "fee_fixed": 2.5,
+  "fees_shown_upfront": true,
+  "guarantee": "Buyer guarantee covers late delivery and invalid tickets."
+ },
+ "lastcall": {
+  "name": "LastCall Tickets",
+  "type": "resale",
+  "fee_pct": 12.0,
+  "fee_fixed": 4.0,
+  "fees_shown_upfront": false,
+  "guarantee": "Guarantee covers invalid tickets only."
+ }
+}
