@@ -51,7 +51,12 @@ noted resale fees that are only revealed at checkout. Both are things code can g
   outside the 8% tolerance, so it was not moved up, which is what `preference_note` said. Checked against
   `core.compare_listings` directly.
 
-## Not yet run
-- The `trap` scenario (E006, lowest ticket price vs. cheapest after fees) is covered by unit tests
-  (brute-force check on every event) but its agent run was blocked on Nov 18 by free-tier quota (429) and
-  503 errors on every available model. To rerun: `.venv/bin/python scripts/agent_demo.py trap`.
+## Observed in the fee-trap run (`runs/*_trap.md`, gemini-3.5-flash-lite, Nov 19)
+- First attempt pointed the scenario at E006, which turned out to have no fee trap (the lowest ticket price
+  is also cheapest after fees; `lowest_base_price_is_not_cheapest` is null). Kept as a control run
+  (`runs/*_control_E006.md`): the agent correctly said the cheapest ticket was also the best deal.
+  A scan of every event found the trap only on E011, so the scenario now uses E011.
+- E011: the agent called `compare_listings` once and answered that the lowest ticket price (E011-L06,
+  $73.42 each) comes to $172.46 for two after a $12.81 fee per ticket, while E011-L01 is cheaper at $165.58.
+  All three numbers match the server.
+- Lesson: pick demo cases from the data with a check, not by eye.

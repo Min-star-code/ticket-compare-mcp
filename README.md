@@ -59,7 +59,7 @@ gives the tool schemas to Gemini as function declarations, and runs a tool-calli
 8 turns. Transcripts are saved in `runs/`. Needs `GEMINI_API_KEY` in `.env`.
 
 ```bash
-.venv/bin/python scripts/agent_demo.py weekend prefer trap   # transcripts so far: weekend, prefer
+.venv/bin/python scripts/agent_demo.py weekend prefer trap   # transcripts in runs/
 ```
 
 ## Tests (22)

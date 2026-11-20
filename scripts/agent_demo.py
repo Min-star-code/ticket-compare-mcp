@@ -32,7 +32,7 @@ SCENARIOS = {
     "weekend": "Find me two tickets for a show in Kitchener this weekend. Keep it under $200 total including fees. Which one should I buy?",
     "prefer": "I'm user u-demo. I like buying from SeatHub and would pay up to 8% more to use it, but never TixSwap. "
               "Save that, then get me 2 seats together for the cheapest concert in Toronto in December.",
-    "trap": "For event E006, which listing for 2 tickets is really cheapest once fees are added? Is the one with the lowest ticket price a good deal?",
+    "trap": "For event E011, which listing for 2 tickets is really cheapest once fees are added? Is the one with the lowest ticket price a good deal?",
 }
 
 SYSTEM = ("You are a ticket-buying assistant for a user. Use the tools; never invent events, dates or prices. "
