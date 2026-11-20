@@ -7,6 +7,35 @@ user-set seller preferences. Built with the official MCP Python SDK (`mcp` 2.x, 
 > **All data is fictional.** Every artist, venue, seller, price and fee rule is invented
 > (`scripts/make_data.py`, fixed seed). This is a prototype, not connected to any real ticket site.
 
+## At a glance
+
+```mermaid
+sequenceDiagram
+    participant U as User
+    participant A as AI agent (Gemini)
+    participant S as MCP server (this repo)
+    U->>A: "2 seats for the cheapest concert in Toronto in December. I prefer SeatHub."
+    A->>S: set_preferences(preferred = SeatHub, tolerance 8%)
+    A->>S: search_events(city, category, date range)
+    S-->>A: events with weekday and "this weekend" computed in code
+    A->>S: compare_listings(event, quantity 2, seats together, user)
+    S-->>A: listings sorted by all-in total + why SeatHub was or wasn't ranked first
+    A-->>U: recommendation quoting the server's totals
+```
+
+The agent chooses and explains; the server does the arithmetic. One real run (`runs/*_trap.md`, event E011):
+
+| listing | ticket price | fees per ticket | all-in for 2 |
+|---|---|---|---|
+| E011-L06 · LastCall (lowest ticket price) | $73.42 | $12.81 | $172.46 |
+| **E011-L01 · Venue Box Office** | $74.80 | $7.99 | **$165.58** |
+
+> **Agent (Gemini, over MCP stdio):** "the listing with the lowest initial ticket price (E011-L06
+> from LastCall Tickets at $73.42 base price each) is actually *not* a good deal once fees are added,
+> coming in higher at $172.46 total … the Venue Box Office listing saves you $6.88 overall."
+
+Every total the agent quoted in all runs matched the server (checked in [`BUILD_LOG.md`](BUILD_LOG.md)).
+
 ## Why it is built this way
 
 Agents are good at choosing and explaining, and bad at things like working out the weekday of a date
